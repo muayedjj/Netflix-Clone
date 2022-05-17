@@ -1,1 +1,3 @@
-export default function FavList() {}
+export default function FavList() {
+    
+}
