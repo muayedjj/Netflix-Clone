@@ -1,1 +1,3 @@
-export default function ModalMovie() {}
+export default function ModalMovie() {
+    
+}
